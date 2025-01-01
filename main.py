@@ -1,1 +1,5 @@
-print("Hello World!")
+from cheater import Cheater
+
+
+cheater = Cheater()
+cheater.run()
