@@ -1,7 +1,5 @@
 from utils import *
 
-import time
-
 
 while True:
     if is_fox_go_in_foreground():
